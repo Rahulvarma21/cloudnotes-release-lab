@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+tfplan
+terraform/.generated/
+terraform/envs/*/terraform.tfstate
+
+# Env / secrets
+.env
+
+# Node
+node_modules/
+
+# Local registry artifacts
+artifacts/

@@ -1,0 +1,12 @@
+{
+  "name": "cloudnotes-api",
+  "version": "0.1.0",
+  "description": "CloudNotes API microservice (notes-service boundary) with a /health endpoint.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

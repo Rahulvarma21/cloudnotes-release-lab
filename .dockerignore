@@ -1,0 +1,7 @@
+.git
+.terraform
+terraform
+.env
+node_modules
+.generated
+artifacts
